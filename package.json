@@ -1,5 +1,5 @@
 {
-  "name": "lycwed-cordova-plugin-admob-free",
+  "name": "cordova-plugin-admob-free",
   "version": "1.0.6",
   "description": "Cordova AdMob Plugin for Google AdMob",
   "scripts": {
@@ -21,7 +21,7 @@
     "lint:spaces": "lintspaces -n -t -d spaces *.* src/**/*.* tests/**/*.* examples/*/*.* examples/*/www/*.*"
   },
   "cordova": {
-    "id": "lycwed-cordova-plugin-admob-free",
+    "id": "cordova-plugin-admob-free",
     "platforms": [
       "android",
       "ios"
